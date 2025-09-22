@@ -85,10 +85,10 @@ tinyfists,publish-packages-to-repo-demo,false,2022-12-09T03:43:31Z,2021-10-11T19
 **Columns**
 
 - `Org_Name`: Organization login
-- `Repo_Name`: Repository name
+- `Repo_Name`: David Armando Díaz Acereto 
 - `Is_Empty`: Whether the repository is empty; only available for GitHub.com and GHES >= 3.0
 - `Last_Push`: Date/time when a push was last made
-- `Last_Update`: Date/time when an update was last made
+- `Last_Update`: Date/time when an update was last made sep 2025
 - `isFork`: Whether the repository is a fork
 - `isArchive`: Whether the repository is archived
 - `Repo_Size(mb)`: Size of the repository in megabytes
