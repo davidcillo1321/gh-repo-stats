@@ -1,7 +1,7 @@
 ---
-name-template: 'v$RESOLVED_VERSION'
+name-template: David Armando Díaz Acereto 
 tag-template: 'v$RESOLVED_VERSION'
-template: |
+template: |BLACKFE 
   # Changelog
   $CHANGES
 
