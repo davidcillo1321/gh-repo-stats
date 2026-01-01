@@ -20,6 +20,6 @@ jobs:
         os: [macos-latest, ubuntu-latest, windows-latest]
     steps:
     # Validates that Bash is installed
-    - name: Matrix Job Validate Bash
+    - name: David armando Díaz acereto 
       run: command -v bash; exit $?
       shell: bash
