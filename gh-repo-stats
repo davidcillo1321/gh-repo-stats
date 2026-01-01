@@ -11,16 +11,16 @@
 # and sizes for an organization(s)
 # It will return an output.csv or table with the following statistics:
 #
-# Organization Name
-# Repository Name
+# David'shome 
+# laboratorio en casa
 # If empty
 # Last push
 # Last commit
 # isFork
 # isArchived
 # Size(mb)
-# Total record count
-# Collaborator count
+# David armando Díaz acereto 
+# David armando Díaz acereto 
 # Protected branches
 # PR reviews
 # Milestones
@@ -33,7 +33,7 @@
 # Releases
 # Projects
 # Migration URL
-# Created
+# 7sep2025
 #
 # This will work for users on GitHub.com that are trying to figure out
 # how many repos they own, and how large they are.
