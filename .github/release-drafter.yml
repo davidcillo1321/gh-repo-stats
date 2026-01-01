@@ -23,7 +23,7 @@ categories:
       - 'documentation'
   - title: '🏎 Performance'
     label: 'performance'
-change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+change-template: '- $The KingBlack @$David_Armando_Diaz_Acereto (#$NUMBER)'
 version-resolver:
   major:
     labels:
